@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tQnn5Iuyl1aQ3eUM8/veOAg3SWbL9rqdmUPf+65DFMdGBhGUu+VIOS2rWnfGzRTJDDWu/IGT+pbz6WRRKZUJZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cyberlinkpc\\source\\repos\\NguyenTrungDuong203\\NguyenTrungDuong203.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cyberlinkpc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
